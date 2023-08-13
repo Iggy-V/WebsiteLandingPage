@@ -7,6 +7,7 @@ Dependencies:
 - Three.js: ^0.154.0
 
 Running the project:
+
 *Download all the dependencies
 - cd .\vite-project\
 - npm run dev 
